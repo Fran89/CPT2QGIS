@@ -1,15 +1,16 @@
 # CPT2QGIS
 This is a small script that is dedicated to convert from GMT CPT to QGIS Textfiles.
 
-###Usage:
 ==================
+###Usage:
+
 
     cpt2qgis.sh <cpt_file>
     
 It ingest cpt files and creates a txt file with the same name for use in QGIS
 
-###Requirements:
 ==================
+###Requirements:
 
 * Bash
 * AWK
